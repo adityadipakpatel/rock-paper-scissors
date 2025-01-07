@@ -74,6 +74,9 @@ By exploiting human tendencies, this strategy increases the computer's chances o
 ## License
 This project is licensed under the MIT License.
 
+## Reference
+The winning strategy and psychology behind it were inspired by a study discussed in this [YouTube video](https://youtu.be/Twn_4AW0M6U) from **13:00 min to 15:00 min**.
+
 ---
 
 Will you be able to outsmart the machine? Play now and find out! 🎮
